@@ -31,7 +31,6 @@
         },
         { 
             "tabTitle": "Git Bash",
-            "acrylicOpacity" : 0.75, 
             "closeOnExit" : true, 
             "colorScheme" : "Campbell", 
             "commandline" : "C:/Program Files/Git/bin/bash.exe --login", 
@@ -43,9 +42,9 @@
             "historySize" : 9001, 
             "icon": "ms-appdata:///roaming/git-bash_32px.ico",
             "name" : "Git Bash", 
+            "startingDirectory" : "c:\repos",
             "padding" : "0, 0, 0, 0", 
-            "snapOnInput" : true, 
-            "useAcrylic" : true 
+            "snapOnInput" : true
         }
     ],
 
